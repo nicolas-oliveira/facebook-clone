@@ -1,7 +1,17 @@
 import React from "react";
+import Header from './components/Header';
+import PostList from './components/PostList';
+import './styles/App.css';
 
-export default class App extends React.Component {
+class App extends React.Component {
   render() {
-    return (<h1>Fala bixo</h1>);
+    return (
+      <div>
+        <Header />
+        <PostList />
+      </div>
+    );
   }
 };
+
+export default App;

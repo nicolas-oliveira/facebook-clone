@@ -1,0 +1,25 @@
+
+.post .info h3, .post .comment h3 {
+  font-size: 14px;
+  color: #3E3E3E;
+}
+.post .info p {
+  font-size: 11px;
+  color: #9A9A9A;
+}
+.post .comment {
+  margin-top: 10px;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.post .comment .comment-self {
+  background-color:  #EEEEEE;
+  width: 100%;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+.post .comment .comment-self > h3 {
+  margin-bottom: 3px;
+}
