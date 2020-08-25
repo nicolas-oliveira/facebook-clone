@@ -1,0 +1,15 @@
+@media (min-width: 600px) {
+  .postList {
+    margin: 3vh 13vw;
+  }
+}
+@media (min-width: 800px) {
+  .postList {
+    margin: 3vh 15vw;
+  }
+}
+@media (min-width: 1000px) {
+  .postList {
+    margin: 3vh 18vw;
+  }
+}

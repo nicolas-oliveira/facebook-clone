@@ -5,6 +5,7 @@
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.143916);
+  transition: margin 0.45s;
 }
 hr {
   border-top: 1px solid #EEEEEE;
@@ -17,6 +18,7 @@ hr {
 .post .content .avatar {
   display: flex;
   align-items: center;
+  line-height: 1.34em;
 }
 .post img {
   border-radius: 50%;

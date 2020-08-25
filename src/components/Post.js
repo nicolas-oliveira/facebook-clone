@@ -14,7 +14,7 @@ export default class Post extends React.Component {
           <Avatar 
             avatar={ AvatarImage } 
             name={ "Júlio Alcantara" } 
-            date={"02 Jun 2020"}
+            date={ "02 Jun 2020" }
           />
           <div className="content-self">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia a in, cupiditate eligendi dicta eaque quos voluptatum delectus quod corporis dolorem est alias tempore ut perspiciatis id totam molestiae ea.</p>
@@ -22,14 +22,14 @@ export default class Post extends React.Component {
         </div>
       <hr/>
         <Comment 
-          avatar={AvatarImage2} 
-          name={"Cézar Toledo"} 
-          comment={lorem}
+          avatar={ AvatarImage2 } 
+          name={ "Cézar Toledo" } 
+          comment={ lorem }
         />
-        <Comment 
-          avatar={AvatarImage2} 
-          name={"Cézar Toledo"} 
-          comment={lorem}
+        <Comment
+          avatar={ AvatarImage2 } 
+          name={ "Cézar Toledo" } 
+          comment={ lorem }
         />
       </div>
     );

@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.profile {
+.header .profile {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -23,7 +23,6 @@ img {
 }
 path {
   fill: #fff;
-
 }
 svg {
   margin-left: 5px;
