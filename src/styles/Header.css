@@ -21,9 +21,9 @@
 img {
   width: 130px;
 }
-path {
+.header .profile path {
   fill: #fff;
 }
-svg {
+.header .profile svg {
   margin-left: 5px;
 }

@@ -1,15 +1,10 @@
 .post {
   min-height: 20vh;
-  margin: 3vh 10vw;
   padding: 20px;
+  margin: 2em 0;
   border-radius: 5px;
   background-color: #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.143916);
-  transition: margin 0.45s;
-}
-hr {
-  border-top: 1px solid #EEEEEE;
-  margin-bottom: 10px;
 }
 .post .content .content-self {
   margin: 15px 0;
@@ -20,7 +15,7 @@ hr {
   align-items: center;
   line-height: 1.34em;
 }
-.post img {
+.post #avatar {
   border-radius: 50%;
   width: 32px;
   margin-right: 0.5em;
