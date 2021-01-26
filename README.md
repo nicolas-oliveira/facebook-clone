@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desafio 4: Facebook Clone
+Facebook Clone
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
